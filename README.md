@@ -1,3 +1,3 @@
 # Machine-Learning-Using-Auto-Pycaret
-Click on the below Link for Pycaret organisation:
+Click on the Link for Pycaret Organization:
           https://pycaret.org/tutorial/
